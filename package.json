@@ -9,8 +9,12 @@
     "typescript": "^5.7.2"
   },
   "name": "pizzaria",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
+    "aria",
+    "a11y",
+    "role",
+    "utils",
     "js",
     "javascript",
     "utility",
