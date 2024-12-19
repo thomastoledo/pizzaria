@@ -2,11 +2,13 @@
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^25.0.1",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
   },
-  "name": "mylib",
+  "name": "pizzaria",
   "version": "0.0.1",
   "keywords": [
     "js",
@@ -14,7 +16,7 @@
     "utility",
     "typescript"
   ],
-  "description": "mylib description",
+  "description": "Aria utils for better a11y",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -22,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomastoledo/Mylib.git"
+    "url": "git+https://github.com/thomastoledo/Pizzaria.git"
   },
   "author": "Thomas TOLEDO",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thomastoledo/Mylib/issues"
+    "url": "https://github.com/thomastoledo/Pizzaria/issues"
   },
-  "homepage": "https://github.com/thomastoledo/Mylib#readme"
+  "homepage": "https://github.com/thomastoledo/Pizzaria#readme"
 }

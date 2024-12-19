@@ -10,7 +10,7 @@
     },
     "include": [
       "index.ts",
-      "libfile.ts"                           
+      "pizzaria.ts"                           
     ],
     "exclude": [
       "node_modules"                          
